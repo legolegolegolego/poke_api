@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "ay",
+        "email": "ay@example.com",
+        "pass": "1234"
+    },
+    {
+        "nombre": "Maria Gomez",
+        "email": "maria.gomez@example.com",
+        "pass": "1234"
+    }
+]
